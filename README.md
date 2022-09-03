@@ -18,17 +18,17 @@ https://efsupit.ro/images/stories/ianuarie2022/Art%2033.pdf </br>
 https://www.aimsciences.org/article/id/328f10aa-23f1-4339-94fa-ce32a20e8f15 </br>
 
 base sqlite </br>
-https://www.kaggle.com/code/ismaheelbello/european-soccer-data-eda </br></br>
+https://www.kaggle.com/code/ismaheelbello/european-soccer-data-eda </br>
 
 base csv </br>
-https://www.kaggle.com/code/pedroyvesfracari/data-mining-eda
+https://www.kaggle.com/code/pedroyvesfracari/data-mining-eda </br>
 
 Articulos </br>
 Articulo de resumen de analitica en deporte y aplicaciones en futbol teiene otra bibliografia </br>
-https://www.researchgate.net/publication/332406802_A_systematic_review_of_sports_analytics </br></br>
+https://www.researchgate.net/publication/332406802_A_systematic_review_of_sports_analytics </br>
 
 Listado de referencias y aplicaciones </br>
-https://www.academia.edu/73063599/Sport_Analytics_A_Review </br></br>
+https://www.academia.edu/73063599/Sport_Analytics_A_Review </br>
 
 Referencias de articulos sobre analitica en el deporte</br>
 https://www.researchgate.net/publication/261975917_Identifying_the_Players_in_Sports_Analytics_Research</br>
