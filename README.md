@@ -28,9 +28,3 @@ https://www.aimsciences.org/article/id/328f10aa-23f1-4339-94fa-ce32a20e8f15 </br
 https://www.researchgate.net/publication/332406802_A_systematic_review_of_sports_analytics </br>
 https://www.academia.edu/73063599/Sport_Analytics_A_Review </br>
 https://www.researchgate.net/publication/261975917_Identifying_the_Players_in_Sports_Analytics_Research</br>
-
-Datos csv </br>
-https://www.kaggle.com/code/pedroyvesfracari/data-mining-eda </br>
-
-
-
