@@ -12,6 +12,10 @@ Misael Garcia </br>
 
 La analítica de datos es un campo que no es ajeno a la práctica deportiva y específicamente al Fútbol. El desempeño de los jugadores es seguido con variedad de métricas como la cantidad de minutos jugados, errores cometidos, jugadas exitosas y detalle de desempeño por partido, temporada incluso por minuto jugado [1,2,3,4]. Resultado del análisis de esta información podría dar perspectivas del desempeño individual de cada jugador, diferentes equipos o clubes (Danielsson, 2022).  Identificar grupos de jugadores dentro de la nómina, liga o incluso a nivel mundial, puede servir a los equipos para ajustar estrategias de entrenamiento, recuperación o alineación.  De acuerdo con esto, se busca agrupar y/o clasificar jugadores europeos basados en sus atributos físicos y desempeño histórico, mediante algoritmos de aprendizaje no supervisado, tal que permita identificar agrupaciones que resulten aplicables en la toma de decisiones dentro e inter-equipos de fútbol. 
 
+Contenido </br>
+
+En el repositorio se puede encontrar el documento final del proyecto, así como las hojas de trabajo y el archivo de datos utilizado.
+
 Articulos de referencia </br>
 
 https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3828-2019.pdf </br>
