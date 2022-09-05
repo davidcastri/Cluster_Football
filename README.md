@@ -14,9 +14,9 @@ La analítica de datos es un campo que no es ajeno a la práctica deportiva y es
 
 Contenido </br>
 
-[Documento Final](https://www.google.com)
-[Archivos de Trabajo]()
-[Datos](https://github.com/davidcastri/Cluster_Football/tree/main/Data)
+[Documento Final]() </br>
+[Archivos de Trabajo](https://github.com/davidcastri/Cluster_Football/tree/main/Notebooks) </br>
+[Datos](https://github.com/davidcastri/Cluster_Football/tree/main/Data) </br>
 
 Articulos de referencia </br>
 
