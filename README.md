@@ -2,8 +2,8 @@
 
 Caracterización y partición de jugadores de ligas europeas buscando mejoras de entrenamiento, preparación y fichajes 
 
-Proyecto de Aprendizaje No Supervisado en datos de Jugadores de Football
-Maestria Inteligencia y Analítica de datos
+Proyecto de Aprendizaje No Supervisado en datos de Jugadores de Football </br>
+Maestria Inteligencia y Analítica de datos - Aug 2022
 
 Karina Duran </br>
 Edna Mora </br>
