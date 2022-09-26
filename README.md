@@ -18,6 +18,9 @@ Contenido </br>
 [Archivos de Trabajo](https://github.com/davidcastri/Cluster_Football/tree/main/Notebooks) </br>
 [Datos](https://github.com/davidcastri/Cluster_Football/tree/main/Data) </br>
 
+video </br>
+[video presentanción] (https://www.canva.com/design/DAFNLVgVemE/aAnEhDK7qAMCuV6-L_rvJw/watch?utm_content=D[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 Articulos de referencia </br>
 
 https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2019/3828-2019.pdf </br>
