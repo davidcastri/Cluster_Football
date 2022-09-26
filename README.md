@@ -19,7 +19,7 @@ Contenido </br>
 [Datos](https://github.com/davidcastri/Cluster_Football/tree/main/Data) </br>
 
 video </br>
-[video presentanción] (https://www.canva.com/design/DAFNLVgVemE/aAnEhDK7qAMCuV6-L_rvJw/watch?utm_content=D[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[video presentanción](https://www.canva.com/design/DAFNLVgVemE/aAnEhDK7qAMCuV6-L_rvJw/watch?utm_content=D[…]mpaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Articulos de referencia </br>
 
